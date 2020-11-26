@@ -1,4 +1,4 @@
-# chat_app
+# sendme
 
 A new Flutter project.
 
